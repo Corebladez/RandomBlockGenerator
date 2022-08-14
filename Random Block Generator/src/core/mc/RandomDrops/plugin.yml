@@ -1,0 +1,6 @@
+  name: RandomBlockGenerator
+  main: core.mc.RandomDrops.Main
+  version: 1.0
+  commands:
+      Random:
+        aliases: rand
